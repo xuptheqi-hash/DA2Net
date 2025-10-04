@@ -1,0 +1,7 @@
+torch @ file:///D:/whl/torch-2.4.1%2Bcu124-cp310-cp310-win_amd64.whl#sha256=db873d7c9f4b959ea818780736ad55c3b120d0337b12ef84a0ad5e9a6fc6b147
+torch-flops==0.3.6
+torchaudio==2.4.1+cu124
+torchsummary==1.5.1
+torchvision==0.19.1+cu124
+tqdm==4.67.1
+transformers==4.52.4
